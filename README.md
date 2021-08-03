@@ -5,4 +5,4 @@ Try not to ruin anything, add nvim config ...
 
 References:
 
-[https://github.com/ThePrimeagen/.dotfiles]
+https://github.com/ThePrimeagen/.dotfiles
