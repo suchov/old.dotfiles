@@ -1,0 +1,9 @@
+[user]
+	name = Artem Sychov
+	email = artem.suchov@gmail.com
+[github]
+	user = suchov
+[credential]
+	helper = osxkeychain
+[init]
+	defaultBranch = master
