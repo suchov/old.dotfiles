@@ -1,0 +1,26 @@
+.anaconda/*
+.CFUserTextEncoding
+.bash_history
+.bash_sessions/*
+.bundle/*
+/Documents/*
+/Desktop/*
+/Library/*
+/Pictures/*
+/Projects/*
+/Public/*
+/Downloads/*
+/Applications/*
+/Music/*
+/Movies/*
+/Music/*
+/OneDrive - Playtika Ltd/*
+/Exercism/*
+/eclipse-jsworkspace/*
+/eclipse-workspace/*
+/eclipse/*
+get-pip.py
+/nvim-osx64/*
+/opt/*
+*.png
+.DS_Store
