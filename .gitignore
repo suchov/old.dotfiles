@@ -20,6 +20,8 @@
 .node_repl_history
 .npm/*
 .nvm/*
+.config/*
+!.config/nvim/init.vim
 .p2/*
 .vim*
 .viminfo
